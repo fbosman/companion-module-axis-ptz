@@ -1,7 +1,7 @@
 var instance_skel = require('../../instance_skel')
 var request = require('request')
 var tcp = require('../../tcp')
-var icons = require('./icons')
+
 var presets = require('./presets')
 var variables = require('./variables')
 var feedbacks = require('./feedbacks')
